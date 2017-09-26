@@ -31,10 +31,7 @@ Nagłówek drugiego poziomu
 > To jest drugi akapit w bloku cytatu.
 >
 ```
->Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”
->
-> To jest drugi akapit w bloku cytatu.
->
+
 
 ### Emfaza fragmentów tekstu <!--- Tomasz -->
 
