@@ -25,6 +25,12 @@ Nagłówek drugiego poziomu
 ### Nagłówki (atx) <!--- Sandra -->
 
 ### Cytaty <!--- Grzegorz -->
+```markdown
+>Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”
+>
+> To jest drugi akapit w bloku cytatu.
+>
+```
 >Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”
 >
 > To jest drugi akapit w bloku cytatu.
